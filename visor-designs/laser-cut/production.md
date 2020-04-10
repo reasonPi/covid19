@@ -60,6 +60,7 @@ To help us keep track of materials used record what you use here (?)
 ## Face shields
 
 Cut the visors. Some of our material is on rolls and will need cutting to size, The larger guillotine is set up to cut 210mm strips, they can then be sliced with the smaller cutter to 300mm to produce sheets.
+You can align the plastic sheet with the edge of the template to cut it easily.
 
 Then use the four hole punch to centrally along the long side
 
